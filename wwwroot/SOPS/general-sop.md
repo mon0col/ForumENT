@@ -11,7 +11,7 @@
 
 # Ведомственные СРП
 <div class="srp-cards">
-  <a class="srp-card" href="/Wiki/Page?page=SOPS/command-sop">
+  <a class="srp-card" href="/Wiki/Page?page=jobs/command/command">
     <span class="srp-card-icon"><img src="/images/icons/Cmd_dep.png" width="35" style="vertical-align: middle;"></span> СРП Командования
   </a>
   <a class="srp-card" href="/Wiki/Page?page=SOPS/sec-sop">
@@ -34,6 +34,9 @@
   </a>
   <a class="srp-card" href="/Wiki/Page?page=SOPS/serv-sop">
     <span class="srp-card-icon"><img src="/images/icons/Serv_dep.png" width="35" style="vertical-align: middle;"></span>СРП Сервисного обслуживания
+  </a>
+    <a class="srp-card" href="/Wiki/Page?page=jobs/centcom/centcom">
+    <span class="srp-card-icon"><img src="/images/icons/Centcom_dep.png" width="35" style="vertical-align: middle;"></span> СРП Центрального Командования
   </a>
 </div>
 
